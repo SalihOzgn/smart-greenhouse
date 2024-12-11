@@ -1,9 +1,9 @@
 Akıllı Sera Otomasyonu Projesi
 
-Bu projede, farklı bitki türlerinin ihtiyaçlarına uygun iklim koşullarını sağlayan bir akıllı sera otomasyonu geliştiriyoruz. 
-Örneğin, yağmur ormanlarında yetişen bitkiler düşük ışık ve nemli toprak isterken, çöl bitkileri yüksek sıcaklık ve kuru hava koşullarına ihtiyaç duyar. 
+Bu projede, farklı bitki türlerinin ihtiyaçlarına uygun iklim koşullarını sağlayan bir akıllı sera otomasyonu geliştirdim. 
+Örneğin, çöl bitkileri yüksek sıcaklık ve kuru hava koşullarına ihtiyaç duyarken, yağmur ormanlarında yetişen bitkiler düşük ışık ve nemli toprak ister. 
 Bu otomasyon, her bitki türünün özel gereksinimlerine göre sıcaklık, nem, ışık ve diğer çevresel faktörleri ayarlayarak, farklı iklim ve bitki örtülerini simüle etmenize olanak tanır. 
-Ayrıca, bu sistem sayesinde, serada istediğiniz bitkiyi, en uygun koşullarda yetiştirebilirsiniz.
+Bu sistem sayesinde, serada istediğiniz bitkiyi, en uygun koşullarda yetiştirebilirsiniz.
 
 Devre Şeması
 
@@ -11,18 +11,18 @@ Devre Şeması
 
 Kullanılan Malzemeler:
 
-Arduino UNO R3 Klon
-2×16 LCD Ekran
-Mini Dalgıç Pompa 6V
-2 Kanal 5 V Röle Kartı 
-Su Seviyesi / Yağmur Sensörü
-DHT11 Sıcaklık ve Nem Sensörü 
-Toprak Nemi Algılama Sensörü 
-80x80x25 mm Fan 
-IRFZ44 – 49 A 55 V MOSFET
-IC205 180 Derece Sürgülü Siviç
-IC177 Mavi Push Buton 
-10 mm LDR
-10K Direnç
-10k pot
+Arduino UNO R3 Klon,
+2×16 LCD Ekran,
+Mini Dalgıç Pompa 6V,
+2 Kanal 5 V Röle Kartı,  
+Su Seviyesi / Yağmur Sensörü,
+DHT11 Sıcaklık ve Nem Sensörü,  
+Toprak Nemi Algılama Sensörü, 
+80x80x25 mm Fan, 
+IRFZ44 – 49 A 55 V MOSFET,
+IC205 180 Derece Sürgülü Siviç,
+IC177 Mavi Push Buton, 
+10 mm LDR, 
+10K Direnç, 
+10k pot, 
 UV ışık kaynağı Led
