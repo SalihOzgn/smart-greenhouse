@@ -9,10 +9,16 @@ Devre Şeması
 
 <img width="1399" alt="Ekran Resmi 2024-12-11 15 53 19" src="https://github.com/user-attachments/assets/ec0650a4-fa04-4191-b3ec-6cbf7edf0be2" />
 
+
+
+
 Kullanılan Malzemeler:
 
+
 Arduino UNO R3 Klon,
+
 2×16 LCD Ekran,
+
 Mini Dalgıç Pompa 6V,
 2 Kanal 5 V Röle Kartı,  
 Su Seviyesi / Yağmur Sensörü,
